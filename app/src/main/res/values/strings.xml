@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weight Converter</string>
+    <string name="txtHeading">Convert Weight</string>
+    <string name="toKilo">Convert Pounds to Kilogram</string>
+    <string name="toPound">Convert Kilogram to Pounds</string>
+    <string name="btnWeight">Convert Weight</string>
+</resources>
